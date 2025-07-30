@@ -1,4 +1,4 @@
-# ADMyBrand Insights 🚀
+# AdMyBrand Insights 🚀
 
 AdMyBrand Insights is an analytics dashboard designed to visualize and manage brand-related data through a customizable, Galaxy-themed interface. Built with modern web technologies, it offers a seamless and interactive user experience tailored for both aesthetics and functionality.
 
@@ -41,9 +41,12 @@ npm run dev
 
 ## 📸 Screenshots
 ### Dark Mode
-![alt text](image-2.png)
+![Dashboard Dark Mode 1](public/screenshot/dark.png)
+![Dashboard Dark Mode 2](public/screenshot/dark2.png)
+
 ### Light Mode
-![alt text](image-1.png)
+![Dashboard Light Mode 1](public/screenshot/light1.png)
+![Dashboard Light Mode 2](public/screenshot/light2.png)
 
 ## 🤖 AI Tools Used
 - **Lovable**: Generated Galaxy-themed UI design, layout ideas, and color palettes.
