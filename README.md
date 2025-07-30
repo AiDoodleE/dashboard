@@ -1,4 +1,4 @@
-# AdMyBrand Insights 🚀
+# ADMyBrand Insights 🚀
 
 AdMyBrand Insights is an analytics dashboard designed to visualize and manage brand-related data through a customizable, Galaxy-themed interface. Built with modern web technologies, it offers a seamless and interactive user experience tailored for both aesthetics and functionality.
 
